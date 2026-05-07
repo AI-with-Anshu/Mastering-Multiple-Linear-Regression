@@ -15,3 +15,6 @@ To ensure a clean development environment, I used a Python Virtual Environment (
 
 ## Results
 The model successfully predicted the price for a new data point (800 sq ft, 3 rooms), aligning perfectly with the learned trend.
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6ff347e7-ee5b-4fd4-9081-96f83bc8a072" />
+
